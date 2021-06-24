@@ -1,5 +1,8 @@
 export default {
     Home: "Home",
-    Results: "Results",
-    AddMember: "AddMember"
+    Male: "Male",
+    Female: "Female",
+    Admin: "Admin",
+    AddMember: "AddMember",
+    EditMember: "EditMember"
 }

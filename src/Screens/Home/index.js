@@ -8,7 +8,7 @@ import styles from './styles'
 import routes from '../../rootNavigation/routes'
 import Header from '../../Components/CutsomHeader'
 
-function Home({ navigation }) {
+const Home = ({ navigation }) => {
     return (
         <View style={{flex: 1}}>
             <Header title="Welcome" navigation={navigation} />
